@@ -38,7 +38,7 @@ Special thanks to **Love Babbar** whose YouTube video helped me learn how to cre
    ```
 2. Navigate to the project directory:
    ```bash
-   cd LeetCodeMetrics
+   cd LeetCode-Metric
    ```
 3. Open the `index.html` file in your browser to view the project.
 
