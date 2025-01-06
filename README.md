@@ -1,8 +1,8 @@
 
-# Leet-Metric
+# LeetCode-Metric
 
 ## Live Project
-Check out the live version of Leet-Metric [here](https://github.com/Prashantkumar95/Leetcode-metric.git).
+Check out the live version of Leet-Metric [here](https://prashantkumar95.github.io/Leetcode-metric/).
 
 ## Project Overview
 LeetCode-Metric is a web-based project that allows users to search for LeetCode profiles and visually track their progress with an interactive pie chart. It fetches user data via an API and presents detailed statistics about their progress on LeetCode problems.
